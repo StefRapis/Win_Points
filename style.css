@@ -47,6 +47,7 @@ body h1 {
 .hero .filter .score {
   width: 150px;
   font-size: 1.2rem;
+  outline: none;
 }
 
 .big_container {
